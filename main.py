@@ -91,4 +91,4 @@ if __name__ == "__main__":
         app = CurrencyConverterApp(root)
         root.mainloop()
     except Exception as e:
-        print(f"An error occurred: {e}")  /Я айдар
+        print(f"An error occurred: {e}")  /ал
